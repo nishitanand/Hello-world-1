@@ -137,6 +137,7 @@ std::vector<std::vector<int> > solve(std::vector<std::vector<int> > grid,int cur
         grid[curr_i][curr_j]=0;
     }
     return grid;
+    cout<<"hi";
 
 }
 
